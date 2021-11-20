@@ -17,3 +17,5 @@ uvicorn app:app --reload
 
 ngrok http 8000
 ```
+### Contributions
+코드 PR은 언제나 환영입니다.
